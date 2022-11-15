@@ -11,3 +11,5 @@ blablabla
 
 
 Info added from local repo
+
+This info was added in remote mode
