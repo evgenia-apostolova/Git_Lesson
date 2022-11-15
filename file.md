@@ -8,3 +8,6 @@ new commit
 апельсины оранжевые
 blablabla
 яблоки бывают и зелеными, и красными
+
+
+Info added from local repo
